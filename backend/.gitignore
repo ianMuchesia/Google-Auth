@@ -1,0 +1,5 @@
+/node_modules
+.env
+/property.json
+/populate.js
+/client_secret_329636848015-osmr2m0nb26s5duab2ke1gknq05km0u6.apps.googleusercontent.com.json
